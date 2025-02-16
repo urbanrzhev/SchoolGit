@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         // Task 2 commit
+        // task 3 commit
     }
 }
